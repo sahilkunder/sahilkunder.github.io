@@ -3757,7 +3757,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		max-width: 45em;
+		max-width: 60em;
 	}
 
 		#cta .inner header {
@@ -3766,7 +3766,7 @@ input, select, textarea {
 			-ms-order: 1;
 			order: 1;
 			padding-right: 3em;
-			width: 90%;
+			width: 70%;
 		}
 
 			#cta .inner header p {
