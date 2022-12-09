@@ -2563,7 +2563,7 @@ input, select, textarea {
 			display: block;
 			position: relative;
 			text-align: left;
-			width: 60%;
+			width: 50%;
 		}
 
 			.features li:nth-child(1) {
