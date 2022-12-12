@@ -1,4 +1,4 @@
-const featureSection = document.getElementById('.w3-progress-container')
+const featureSection = document.getElementById('inn')
 
 const progressBars = document.querySelectorAll('.w3-progressbar')
 
