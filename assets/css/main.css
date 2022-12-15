@@ -1798,8 +1798,7 @@ input, select, textarea {
 
 		header.major p {
 			color: #fff;
-			top: 0;
-			text-align: left;
+			top: 0;			;
 		}
 
 		@media screen and (max-width: 736px) {
